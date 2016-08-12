@@ -12,3 +12,7 @@ end
 get '/resume' do
 	erb :resume
 end
+
+post '/contact' do
+	erb :contact
+end
