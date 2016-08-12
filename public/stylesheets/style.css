@@ -1,0 +1,99 @@
+body {
+	background: #000066;
+	color: #888;
+	font: 300 16px/22px "Raleway", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h3, h5, p {
+  margin-bottom: 22px;
+}
+
+h1, h2, {
+	color: #FAFA05;
+}
+
+h1 {
+	font-size: 36px;
+	line-height: 44px;
+}
+
+h2 {
+	font-size: 24px;
+	line-height: 44px;
+}
+
+h3 {
+	text-align: center;
+	color: #FAFA05;
+	font-size: 21px;
+}
+
+h4 {
+	font-size: 18px;
+	color: 0A0A03;
+}
+
+h5 {
+	color: #a9b2b9;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+
+object :focus {
+   outline: none;
+}
+
+object {
+	margin: center;
+	text-align: center;
+}
+
+.logo {
+	border-top: 4px solid #FAFA05;
+	display: block;
+	font-size: 48px;
+	font-weight: 100;
+	letter-spacing: .5px;
+	line-height: 44px;
+	padding: 40px 0 22px 0;
+	text-transform: uppercase;
+}
+
+.teaser img {
+	border-radius: 5px;
+	display: block;
+	width: 960px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.primary-nav {
+	text-align: center;
+	font-weight: 100;
+	word-spacing: 5px;
+}
+
+a:hover {
+	color: #a9b2b9;
+}
+
+a {
+	color: #37ED79;
+	text-decoration: none;
+}
+
+.center {
+	display: block;
+	margin-left: 100px;
+}
+
+.centered {
+	text-align: center;
+}
+
+.spacing {
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
